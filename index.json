@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2025-06-12T00:48:51.635803008+02:00",
+  "plugins": {
+    "eat-bcn": {
+      "name": "eat-bcn",
+      "description": "Recommend BCN restaurants",
+      "author": "rubiojr",
+      "home_url": "https://github.com/rubiojr/sup",
+      "category": "fun",
+      "tags": [
+        "food",
+        "barcelona"
+      ],
+      "versions": {
+        "0.1.0": {
+          "version": "0.1.0",
+          "release_date": "2025-06-12T00:27:07.109460782+02:00",
+          "sha256": "d04314150e82f4e8bee96f04cf1dad2329ab3fad78230b34a588fc75b57b230f",
+          "size": 1010602
+        }
+      },
+      "latest": "0.1.0"
+    },
+    "echo": {
+      "name": "echo",
+      "description": "Echo demo plugin",
+      "author": "rubiojr",
+      "home_url": "https://github.com/rubiojr/sup",
+      "category": "util",
+      "tags": [],
+      "versions": {
+        "0.1.0": {
+          "version": "0.1.0",
+          "release_date": "2025-06-12T00:29:46.953219237+02:00",
+          "sha256": "c065836a75a2553ada6131f91e432a967b2aa297d6e1a2005a328b2131cc5690",
+          "size": 996533
+        }
+      },
+      "latest": "0.1.0"
+    },
+    "ruleta": {
+      "name": "ruleta",
+      "description": "Send random images",
+      "author": "rubiojr",
+      "home_url": "https://github.com/rubiojr/sup",
+      "category": "fun",
+      "tags": [],
+      "versions": {
+        "0.1.0": {
+          "version": "0.1.0",
+          "release_date": "2025-06-12T00:28:30.414856054+02:00",
+          "sha256": "ce0e80bac18ac79e473fe51ed77ad911cabd715ad60d2ee61cb25919690786bd",
+          "size": 1015227
+        }
+      },
+      "latest": "0.1.0"
+    }
+  }
+}
