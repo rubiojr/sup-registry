@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-06-12T00:48:51.635803008+02:00",
+  "updated_at": "2025-06-12T02:00:24.109670068+02:00",
   "plugins": {
     "eat-bcn": {
       "name": "eat-bcn",
@@ -35,6 +35,23 @@
           "release_date": "2025-06-12T00:29:46.953219237+02:00",
           "sha256": "c065836a75a2553ada6131f91e432a967b2aa297d6e1a2005a328b2131cc5690",
           "size": 996533
+        }
+      },
+      "latest": "0.1.0"
+    },
+    "random": {
+      "name": "random",
+      "description": "Random number generator",
+      "author": "rubiojr",
+      "home_url": "https://github.com/rubiojr/sup",
+      "category": "util",
+      "tags": [],
+      "versions": {
+        "0.1.0": {
+          "version": "0.1.0",
+          "release_date": "2025-06-12T01:59:13.141347409+02:00",
+          "sha256": "6c9ee54aa2043ddef9dc130dc8d6876eacaed79567d29b5f63ac3269be2998a1",
+          "size": 993367
         }
       },
       "latest": "0.1.0"
